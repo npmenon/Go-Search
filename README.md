@@ -3,7 +3,7 @@
 
 An Information Retrieval System using Apache Solr. Custom filtering and data visualization on pre-indexed Twitter data.
 
-Project:
-  a) Nikhil Prakash
-  b) Shawn Varghese
-  c) Rahul Varma
+Project Members:
+  - Nikhil Prakash
+  - Shawn Varghese
+  - Rahul Varma
